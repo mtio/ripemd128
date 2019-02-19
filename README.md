@@ -1,4 +1,4 @@
-# ripemd128
+# Ripemd128
 A pure rust implementation of the RIPEMD-128 cryptographic hash based on [RustCrypto/hashes][3] ripemd160.
 
 # Usage
