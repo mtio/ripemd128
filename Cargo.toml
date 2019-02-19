@@ -1,11 +1,12 @@
 [package]
 name = "ripemd128"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["RustCrypto Developers", "mt"]
 license = "MIT OR Apache-2.0"
 description = "RIPEMD-128 hash function"
 documentation = "https://docs.rs/ripemd128"
 repository = "https://github.com/mtio/ripemd128"
+readme = "README.md"
 keywords = ["crypto", "ripemd128", "hash", "digest"]
 categories = ["cryptography", "no-std"]
 edition = "2018"
